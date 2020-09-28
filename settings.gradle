@@ -1,0 +1,4 @@
+include ':features:gallery'
+include ':features'
+include ':app'
+rootProject.name = "features"
